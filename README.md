@@ -8,7 +8,6 @@ Made use of sqlite for the database.
 
 To run: download the project, run main.py
 
-![image](https://github.com/user-attachments/assets/bfe439be-137c-442d-bb5b-9de5f398c7ae)
-![image](https://github.com/user-attachments/assets/07b76510-164f-4f3a-9fb1-1c5f52e38320)
-![image](https://github.com/user-attachments/assets/1b9a1b85-7842-46dc-a558-1db3d189443d)
-
+![image](https://github.com/user-attachments/assets/b63a698e-113b-40b2-9d8e-a40d7d824a6a)
+![image](https://github.com/user-attachments/assets/297875bf-d762-4830-8ad9-1943f81951f8)
+![image](https://github.com/user-attachments/assets/50f6bfb6-1986-475e-88f6-e73274006c3b)
